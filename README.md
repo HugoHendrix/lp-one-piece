@@ -1,5 +1,7 @@
 # LP One Piece — Landing Page
 
+> **Este projeto foi incorporado ao [One Piece Codex](https://hugohendrix.github.io/one-piece-codex/)** ([código](https://github.com/HugoHendrix/one-piece-codex)), que reúne esta landing page, a galeria com rolagem infinita e a lista de personagens em React. Este repositório fica como registro do original.
+
 Uma landing page temática de One Piece criada para praticar e demonstrar boas práticas em HTML, CSS e JavaScript.
 
 ## Objetivos
